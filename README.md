@@ -1,6 +1,6 @@
 # Anomaly score: Evaluating generative models and individual generated images based on complexity and vulnerability
 
-Official repository of SAT | [paper]([https://openaccess.thecvf.com/content/CVPR2024/papers/Hwang_Anomaly_Score_Evaluating_Generative_Models_and_Individual_Generated_Images_based_CVPR_2024_paper.pdf]) [arxiv]([https://arxiv.org/abs/2210.11407](https://arxiv.org/abs/2312.10634))
+Official repository of SAT | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hwang_Anomaly_Score_Evaluating_Generative_Models_and_Individual_Generated_Images_based_CVPR_2024_paper.pdf) [arxiv](https://arxiv.org/abs/2312.10634)
 
 [Jaehui Hwang](https://j-h-hwang.github.io/), Junghyuk Lee, [Jong-Seok Lee](https://mcml.yonsei.ac.kr/)
 
