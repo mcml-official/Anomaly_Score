@@ -4,7 +4,7 @@ Official repository of SAT | [paper](https://openaccess.thecvf.com/content/CVPR2
 
 [Jaehui Hwang](https://j-h-hwang.github.io/), Junghyuk Lee, [Jong-Seok Lee](https://mcml.yonsei.ac.kr/)
 
-Special thanks to Junha Park for his effort in building this repository.
+Special thanks to Junha Park for his contributions to building this repository.
 
 ## Introduction
 
