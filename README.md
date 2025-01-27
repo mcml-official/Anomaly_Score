@@ -1,4 +1,4 @@
-# Anomaly score: Evaluating generative models and individual generated images based on complexity and vulnerability
+# Anomaly score: Evaluating generative models and individual generated images based on complexity and vulnerability (CVPR 2024)
 
 Official repository of SAT | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hwang_Anomaly_Score_Evaluating_Generative_Models_and_Individual_Generated_Images_based_CVPR_2024_paper.pdf) [arxiv](https://arxiv.org/abs/2312.10634)
 
